@@ -1,0 +1,6 @@
+[submodule "full_color_light_cube_esp32"]
+	path = full_color_light_cube_esp32
+	url = https://github.com/redchenjs/full_color_light_cube_esp32
+[submodule "full_color_light_cube_weixin"]
+	path = full_color_light_cube_weixin
+	url = https://github.com/redchenjs/full_color_light_cube_weixin
