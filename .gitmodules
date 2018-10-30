@@ -4,3 +4,6 @@
 [submodule "full_color_light_cube_weixin"]
 	path = full_color_light_cube_weixin
 	url = https://github.com/redchenjs/full_color_light_cube_weixin
+[submodule "full_color_light_cube_fpga"]
+	path = full_color_light_cube_fpga
+	url = https://github.com/redchenjs/full_color_light_cube_fpga
