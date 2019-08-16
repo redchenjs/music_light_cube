@@ -1,9 +1,6 @@
-[submodule "full_color_light_cube_esp32"]
-	path = full_color_light_cube_esp32
-	url = https://github.com/redchenjs/full_color_light_cube_esp32
-[submodule "full_color_light_cube_weixin"]
-	path = full_color_light_cube_weixin
-	url = https://github.com/redchenjs/full_color_light_cube_weixin
-[submodule "full_color_light_cube_fpga"]
-	path = full_color_light_cube_fpga
-	url = https://github.com/redchenjs/full_color_light_cube_fpga
+[submodule "esp32"]
+	path = esp32
+	url = https://github.com/redchenjs/bluetooth_speaker_esp32
+[submodule "max10"]
+	path = max10
+	url = https://github.com/redchenjs/full_color_light_cube_max10
