@@ -4,3 +4,6 @@
 [submodule "max10"]
 	path = max10
 	url = https://github.com/redchenjs/full_color_light_cube_max10
+[submodule "ota-firmware-updater"]
+	path = ota-firmware-updater
+	url = https://github.com/redchenjs/spp_firmware_updater
