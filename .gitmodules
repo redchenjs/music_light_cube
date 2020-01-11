@@ -7,3 +7,6 @@
 [submodule "tools"]
 	path = tools
 	url = https://github.com/redchenjs/spp-firmware-updater
+[submodule "weixin"]
+	path = weixin
+	url = https://github.com/redchenjs/music_light_cube_weixin
