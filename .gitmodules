@@ -3,10 +3,10 @@
 	url = https://github.com/redchenjs/bluetooth_speaker_esp32
 [submodule "max10"]
 	path = max10
-	url = https://github.com/redchenjs/full_color_light_cube_max10
-[submodule "tools"]
-	path = tools
-	url = https://github.com/redchenjs/spp-firmware-updater
+	url = https://github.com/redchenjs/music_light_cube_max10
 [submodule "weixin"]
 	path = weixin
 	url = https://github.com/redchenjs/music_light_cube_weixin
+[submodule "tools"]
+	path = tools
+	url = https://github.com/redchenjs/spp-firmware-updater
