@@ -1,6 +1,6 @@
 [submodule "esp32"]
 	path = esp32
-	url = https://github.com/redchenjs/bluetooth_speaker_esp32
+	url = https://github.com/redchenjs/visual_effects_controller_esp32
 [submodule "max10"]
 	path = max10
 	url = https://github.com/redchenjs/music_light_cube_max10
