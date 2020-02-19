@@ -1,12 +1,12 @@
 [submodule "esp32"]
 	path = esp32
-	url = https://github.com/redchenjs/visual_effects_controller_esp32
+	url = https://github.com/redchenjs/bluetooth_visual_speaker_esp32
 [submodule "max10"]
 	path = max10
-	url = https://github.com/redchenjs/music_light_cube_max10
+	url = https://github.com/redchenjs/ws2812_led_controller_max10
 [submodule "weixin"]
 	path = weixin
 	url = https://github.com/redchenjs/music_light_cube_weixin
 [submodule "tools"]
 	path = tools
-	url = https://github.com/redchenjs/spp-firmware-updater
+	url = https://github.com/redchenjs/easy_firmware_updater_qt
