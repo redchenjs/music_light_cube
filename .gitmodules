@@ -9,4 +9,4 @@
 	url = https://github.com/redchenjs/music_light_cube_weixin
 [submodule "tools"]
 	path = tools
-	url = https://github.com/redchenjs/easy_firmware_updater_qt
+	url = https://github.com/redchenjs/bluetooth_firmware_updater_qt
