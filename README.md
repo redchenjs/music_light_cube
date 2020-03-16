@@ -9,14 +9,14 @@ Music Light Cube
 * Various Animations (Audio FFT / Rainbow / Star Sky / ...)
 * Optional Audio Input Interface (I2S / PDM Mic)
 * BLE Control Interface (WeChat Mini-Program)
-* OTA Firmware Update (Easy Firmware Updater)
+* OTA Firmware Update (Bluetooth Firmware Updater)
 
 ## Repositories
 
 * [ESP32 Core Controller](https://github.com/redchenjs/bluetooth_visual_speaker_esp32)
 * [MAX10 LED Controller](https://github.com/redchenjs/ws2812_led_controller_max10)
 * [WeChat Mini-Program](https://github.com/redchenjs/music_light_cube_weixin)
-* [Easy Firmware Updater](https://github.com/redchenjs/easy_firmware_updater_qt)
+* [Bluetooth Firmware Updater](https://github.com/redchenjs/bluetooth_firmware_updater_qt)
 
 ## Demo
 
