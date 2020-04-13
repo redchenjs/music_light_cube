@@ -3,8 +3,8 @@ Music Light Cube
 
 ## Main Features
 
-* Full Color 8x8x8 RGB LED Cube (WS2812-like LEDs, one data line per layer, 8 layers in total)
-* High Refresh Rate (Dedicated FPGA-Based WS2812-LED controller, up to 240fps@40MHz)
+* Full Color 8x8x8 RGB LED Cube (WS2812-like LEDs, 64 LEDs per layer, 8 layers in total)
+* High Refresh Rate (Dedicated FPGA-Based WS2812-LED controller, up to 250fps@40MHz)
 * Bluetooth A2DP Audio Streaming (ESP32 core controller, I2S output)
 * Various Animations (Audio FFT / Rainbow / Star Sky / ...)
 * Optional Audio Input Interface (I2S / PDM Mic)
