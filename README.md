@@ -3,7 +3,7 @@ Music Light Cube
 
 ## Main Features
 
-* Full color 8x8x8 RGB LED cube (WS2812D-F5/APA106 LED, 64 LEDs per layer, 8 layers in total)
+* Full color 8x8x8 RGB LED cube (WS2812D-F5 / APA106 LED, 64 LEDs per layer, 8 layers in total)
 * High refresh rate (dedicated FPGA-based [MAX10 LED Controller](https://github.com/redchenjs/ws281x_cube_controller_max10), up to 500fps@8x8x8)
 * Bluetooth A2DP audio streaming ([ESP32 VFX Controller](https://github.com/redchenjs/bluetooth_visual_speaker_esp32), I2S output)
 * Various animations (Audio FFT / Rainbow / Starsky / ...)
