@@ -4,18 +4,18 @@ Music Light Cube
 ## Main Features
 
 * Full color 8x8x8 RGB LED cube (WS2812D-F5 / APA106 LED, 64 LEDs per layer, 8 layers in total)
-* High refresh rate (dedicated FPGA-based [MAX10 LED Controller](https://github.com/redchenjs/ws281x_cube_controller_max10), up to 500fps@8x8x8)
-* Bluetooth A2DP audio streaming ([ESP32 VFX Controller](https://github.com/redchenjs/bluetooth_visual_speaker_esp32), I2S output)
+* High refresh rate (dedicated FPGA-based [NeoPixel LED Controller](https://github.com/redchenjs/neopixel_led_controller_max10), up to 500fps@8x8x8)
+* Bluetooth A2DP audio streaming ([Visual Effects Controller](https://github.com/redchenjs/bluetooth_visual_speaker_esp32), I2S output)
 * Various animations (Audio FFT / Rainbow / Starsky / ...)
 * Optional audio input interface (I2S / PDM microphone)
 * BLE control interface ([WeChat Mini-Program](https://github.com/redchenjs/music_light_cube_weixin))
-* OTA firmware update ([Bluetooth Firmware Updater](https://github.com/redchenjs/bluetooth_firmware_updater_qt))
+* OTA firmware update ([WeChat Mini-Program](https://github.com/redchenjs/music_light_cube_weixin) / [Bluetooth Firmware Updater](https://github.com/redchenjs/bluetooth_firmware_updater_qt))
 
 ## Repositories
 
-* [ESP32 VFX Controller](https://github.com/redchenjs/bluetooth_visual_speaker_esp32)
-* [MAX10 LED Controller](https://github.com/redchenjs/ws281x_cube_controller_max10)
 * [WeChat Mini-Program](https://github.com/redchenjs/music_light_cube_weixin)
+* [NeoPixel LED Controller](https://github.com/redchenjs/neopixel_led_controller_max10)
+* [Visual Effects Controller](https://github.com/redchenjs/bluetooth_visual_speaker_esp32)
 * [Bluetooth Firmware Updater](https://github.com/redchenjs/bluetooth_firmware_updater_qt)
 
 ## Demo

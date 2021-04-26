@@ -3,7 +3,7 @@
 	url = https://github.com/redchenjs/bluetooth_visual_speaker_esp32
 [submodule "max10"]
 	path = max10
-	url = https://github.com/redchenjs/ws281x_cube_controller_max10
+	url = https://github.com/redchenjs/neopixel_led_controller_max10
 [submodule "weixin"]
 	path = weixin
 	url = https://github.com/redchenjs/music_light_cube_weixin
